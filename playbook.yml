@@ -5,7 +5,6 @@
   vars:
     packages:
       - unattended-upgrades
-      - intel-microcode
       - git
       - ftp
       - jq
