@@ -19,7 +19,6 @@
       - python3
       - python3-pip
       - nmap
-      - docker.io
       - speedtest-cli
       - mupdf-tools
       - whois
