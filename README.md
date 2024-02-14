@@ -1,6 +1,6 @@
-# debian-penbox
+# Linux-penbox
 
-Scripts used to install my custom Debian bookworm penbox
+Scripts used to install my custom Ubuntu Latest Stable, also working on it to work on Debian Bookworm.
 
 This is still under work as I slowly tweak items to my liking.
 
