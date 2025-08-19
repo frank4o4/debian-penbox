@@ -143,40 +143,40 @@ sudo apt install ffuf paramspider sublist3r arjun
 ```
 
 
-Amss https://github.com/OWASP/Amass
-Zap Proxy https://www.zaproxy.org/
-Dirsearch https://github.com/maurosoria/dirsearch
-Nuclei https://github.com/projectdiscovery/nuclei
-Wfuzz https://github.com/xmendez/wfuzz
-GitRob https://github.com/michenriksen/gitrob
-Joomscan https://github.com/OWASP/joomscan
-Wpscan https://github.com/wpscanteam/wpscan
-Rustscan https://github.com/RustScan/RustScan
-Httprobe https://github.com/tomnomnom/httprobe
-getJS https://github.com/003random/getJS
-Crlfuzz https://github.com/dwisiswant0/crlfuzz
-Xsrfprobe https://github.com/0xInfection/XSRFProbe
-Liffy https://github.com/hvqzao/liffy
-GraphQLmap https://github.com/swisskyrepo/GraphQLmap
-Dom Red https://github.com/Naategh/dom-red
-OpenRedireX https://github.com/devanshbatham/OpenRedireX
-Smuggler https://github.com/defparam/smuggler
-SSRFmap https://github.com/swisskyrepo/SSRFmap
-BruteMap https://github.com/brutemap-dev/brutemap
-Request Smuggler https://github.com/Sh1Yo/request_smuggler
-Cerbrutus https://github.com/Cerbrutus-BruteForcer/cerbrutus
-ApkLeaks https://github.com/dwisiswant0/apkleaks
-JWT_Tool https://github.com/ticarpi/jwt_tool
-Jexboss https://github.com/joaomatosf/jexboss
-Waybackurls https://github.com/tomnomnom/waybackurls
-Patator https://github.com/lanjelot/patator
-Dirdar https://github.com/gr0driket/DirDar
-Bypass 403 https://github.com/iamj0ker/bypass-403
-Hash-Buster https://github.com/s0md3v/Hash-Buster
-Crackmapexec https://github.com/byt3bl33d3r/CrackMapExec
-Deathstar https://github.com/byt3bl33d3r/DeathStar
-Cloudfail https://github.com/m0rtem/CloudFail
-Linkfinder https://github.com/GerbenJavado/LinkFinder
-Subzy https://github.com/LukaSikic/subzy
-Shellerator https://github.com/ShutdownRepo/shellerator
-Enum4linux https://github.com/cddmp/enum4linux-ng
+- Amss https://github.com/OWASP/Amass
+- Zap Proxy https://www.zaproxy.org/
+- Dirsearch https://github.com/maurosoria/dirsearch
+- Nuclei https://github.com/projectdiscovery/nuclei
+- Wfuzz https://github.com/xmendez/wfuzz
+- GitRob https://github.com/michenriksen/gitrob
+- Joomscan https://github.com/OWASP/joomscan
+- Wpscan https://github.com/wpscanteam/wpscan
+- Rustscan https://github.com/RustScan/RustScan
+- Httprobe https://github.com/tomnomnom/httprobe
+- getJS https://github.com/003random/getJS
+- Crlfuzz https://github.com/dwisiswant0/crlfuzz
+- Xsrfprobe https://github.com/0xInfection/XSRFProbe
+- Liffy https://github.com/hvqzao/liffy
+- GraphQLmap https://github.com/swisskyrepo/GraphQLmap
+- Dom Red https://github.com/Naategh/dom-red
+- OpenRedireX https://github.com/devanshbatham/OpenRedireX
+- Smuggler https://github.com/defparam/smuggler
+- SSRFmap https://github.com/swisskyrepo/SSRFmap
+- BruteMap https://github.com/brutemap-dev/brutemap
+- Request Smuggler https://github.com/Sh1Yo/request_smuggler
+- Cerbrutus https://github.com/Cerbrutus-BruteForcer/cerbrutus
+- ApkLeaks https://github.com/dwisiswant0/apkleaks
+- JWT_Tool https://github.com/ticarpi/jwt_tool
+- Jexboss https://github.com/joaomatosf/jexboss
+- Waybackurls https://github.com/tomnomnom/waybackurls
+- Patator https://github.com/lanjelot/patator
+- Dirdar https://github.com/gr0driket/DirDar
+- Bypass 403 https://github.com/iamj0ker/bypass-403
+- Hash-Buster https://github.com/s0md3v/Hash-Buster
+- Crackmapexec https://github.com/byt3bl33d3r/CrackMapExec
+- Deathstar https://github.com/byt3bl33d3r/DeathStar
+- Cloudfail https://github.com/m0rtem/CloudFail
+- Linkfinder https://github.com/GerbenJavado/LinkFinder
+- Subzy https://github.com/LukaSikic/subzy
+- Shellerator https://github.com/ShutdownRepo/shellerator
+- Enum4linux https://github.com/cddmp/enum4linux-ng
