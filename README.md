@@ -143,6 +143,8 @@ sudo apt install ffuf paramspider sublist3r arjun
 ```
 
 
+## Other Tools you can install
+
 - Amss https://github.com/OWASP/Amass
 - Zap Proxy https://www.zaproxy.org/
 - Dirsearch https://github.com/maurosoria/dirsearch
